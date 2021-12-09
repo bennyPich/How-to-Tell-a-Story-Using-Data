@@ -6,8 +6,8 @@ You’re an analytics guru, so your partners have asked you to prepare some mark
 
 ## Instructions
 1. Download the data and prepare it for analysis
-Download the data on restaurants in LA. Make sure that the data type for each column is correct and that there are no missing values or duplicates. Process them if necessary.
-File path: /datasets/rest_data_us.csv. 
+Download the data on restaurants in LA. Make sure that the data type for each column is correct and that there are no missing values or duplicates. Process them if necessary.  
+File path: /datasets/rest_data_us.csv.   
 
 2. Data analysis
     - Investigate the proportions of the various types of establishments. Plot a graph.  
